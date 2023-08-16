@@ -1,5 +1,7 @@
 # PDF-Image-Scraper
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/mrjw717/cf4098586ce06b038b090cd0acf0702e/pdf-image-extraction-and-optional-color-reversal-1-0.ipynb)
+
 # PDF Image Extraction and Color Reversal
 This project provides a Python script for extracting images from PDF files and an additional script to reverse the colors of extracted images if they appear as negatives. It aims to streamline the process of extracting images from PDF documents and handling potential color inversion issues. The scripts are designed to be used in a Google Colab environment and leverage libraries such as PyMuPDF and Pillow for efficient PDF processing and image manipulation.
 
